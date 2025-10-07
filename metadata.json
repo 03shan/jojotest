@@ -1,0 +1,5 @@
+{
+  "name": "EcoGuard - Smart Waste & Health Protection System",
+  "description": "An application that classifies waste from images, provides disposal suggestions, and predicts potential diseases from images of waste dumps to promote public health and environmental safety.",
+  "requestFramePermissions": []
+}
